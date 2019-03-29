@@ -29,7 +29,7 @@ First build the project
 Run it
 
     cd target/
-    ./jdDos.java
+    ./jdDos
 
 List commands
 
