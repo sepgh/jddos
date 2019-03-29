@@ -48,7 +48,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>dDos</finalName>
+		<finalName>jdDos</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
